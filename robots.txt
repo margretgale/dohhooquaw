@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://opaaphaed.kakao.es/sitemap.xml
